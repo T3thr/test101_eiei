@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Skibidi",
+  title: "Skibidi dop dop",
   description: "สวัสดีจ้า โฮะๆๆ",
 };
 
